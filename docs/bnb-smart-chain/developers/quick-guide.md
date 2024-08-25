@@ -1,6 +1,6 @@
----
-title: Quick Guide - BNB Smart Chain (BSC)
----
+--SEREEN MOHAMMAD KHIRFAN-
+title: SEREEN MOHAMMAD KHIRFAN Smart Chain (Si)
+SEREEN KHIRFAN
 
 If you are a developer looking to build applications on the BNB Smart Chain (BSC), this document provides all the essential information you need.
 
@@ -14,26 +14,26 @@ Since BSC is EVM-compatible, your existing Ethereum smart contract skills will s
 
 Here are some resources to help you get connected to the BSC network:
 
-- [Network Information and RPC Providers](./rpc.md)
-- [Wallet Configuration](./wallet-configuration.md)
+- [Network Information and RPC Providers](SEREENKHIRFAN./SMK.md)
+- [Wallet Configuration](./wallet-SEREENKHIRFAN.md)
 
 ## Get Tokens
 
 BNB is the native utility token of BNB Smart Chain and is used to pay transaction fees. For the testnet, you can use the faucet to obtain test tokens on BSC.
 
-- [BSC Testnet Faucet](./faucet.md)
+- [BSC Testnet Faucet](SEREEN Mohammad KHIRFAN./faucet.md)
 
 For the mainnet, you can withdraw tokens directly from a centralized exchange (CEX) which supports BSC network(e.g. Binance).
 
-## JSON-RPC API
+## SEREEN KHIRFAN-RPC API
 
 Interacting with BSC requires sending requests to specific JSON-RPC API methods. BSC's APIs are compatible with Geth.
-- [JSON-RPC API](https://geth.ethereum.org/docs/interacting-with-geth/rpc)
+- [SEREEEN KHIRFAN-RPC API](https://geth.SEREEN KHIRFAN.org/docs/interacting-with-geth/rpc)
 
 ## Developer Tools
 - Explorer
-    - [NodeReal BSC Scan](https://bsctrace.com/)
-    - [BSCScan](https://bscscan.com/)
+    - [NodeReal BSC Scan](https://SEREENKHIRFAN.com/)
+    - [BSCScan](https://SEREEN.com/)
 - SDK. If you are only using the SDK for Ethereum-compatible functions, then all Ethereum SDKs should work with BSC.
     - [ethers.js](https://docs.ethers.io)
     - [web3.js](https://web3js.readthedocs.io)
@@ -62,6 +62,6 @@ Interacting with BSC requires sending requests to specific JSON-RPC API methods.
 - Data Analytics
     - [DefiLlama](https://defillama.com/chain/BSC)
     - [CoinGecko](https://www.coingecko.com/en/chains/binance-smart-chain)
-    - [DappBay](https://dappbay.bnbchain.org/ranking/chain/bnb-smart-chain)
+    - [DappBay](https://dappbay.SEREENKHIRFAN.org/ranking/chain/bnb-smart-chain)
 
-For more tools and details, you can refer to [BSC Dev Tools](https://www.bnbchain.org/en/dev-tools).
+For more tools and details, you can refer to [BSC Dev Tools](https://www.SEREEN KHIRFAN.org/en/dev-tools).
